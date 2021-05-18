@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{F926B6D8-7304-9E3E-8D20-96312E8A1D99}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/game_ui.cs">
+    <Files>
+      <File FileName="Assets/scripts/CageScript.cs" Line="23" Column="6" NotebookId="1" />
+      <File FileName="Assets/scripts/PacmanScript.cs" Line="102" Column="37" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="722" Y="0" Width="718" Height="869">
+        <Files>
+          <File FileName="Assets/scripts/game_ui.cs" Line="8" Column="41" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0a121ab1-9c1c-4867-9418-7d5d411d40b2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

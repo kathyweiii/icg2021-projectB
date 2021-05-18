@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{B86C88E1-BBE3-FB86-9753-A2051EC00A92}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/tower_crane/Hook.cs">
+    <Files>
+      <File FileName="Assets/scripts/cage.cs" Line="21" Column="18" />
+      <File FileName="Assets/scripts/game_ui.cs" Line="27" Column="2" />
+      <File FileName="Assets/scripts/HangGame.cs" Line="23" Column="25" />
+      <File FileName="Assets/tower_crane/Hook.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0a121ab1-9c1c-4867-9418-7d5d411d40b2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

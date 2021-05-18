@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{5C7BB214-6FEA-FCE5-BEC1-AA4200A4C405}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Hang/Hook.cs">
+    <Files>
+      <File FileName="Assets/scripts/PrimitivesGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/PacmanScript.cs" Line="70" Column="11" />
+      <File FileName="Assets/scripts/CageScript.cs" Line="49" Column="70" />
+      <File FileName="Assets/scripts/food.cs" Line="27" Column="67" />
+      <File FileName="Assets/scripts/Hang/Hook.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e175d5c5-1da2-46e9-a2af-6f44ed51a9c8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
